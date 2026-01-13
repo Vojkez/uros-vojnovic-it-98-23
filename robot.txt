@@ -1,0 +1,6 @@
+sitemap: User-agent: *
+Dissalow: /Media/
+
+sitemap: https://github.com/Vojkez/uros-vojnovic-it-98-23/blob/main/sitemap.xml
+
+
