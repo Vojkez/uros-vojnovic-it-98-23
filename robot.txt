@@ -1,4 +1,0 @@
-sitemap: User-agent: *
-Dissalow: /Media/
-
-sitemap: https://vojkez.github.io/uros-vojnovic-it-98-23/
